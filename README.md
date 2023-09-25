@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @doola-x
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+**👋 hi, im doola**
+
+  - noob
+  - php developer at [REDACTED]
+  - interested in c++ and agi
+
+*join me in my journey of becoming not dumb. starting a little late, but we still gettin' at it*
 
 <!---
 doola-x/doola-x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
