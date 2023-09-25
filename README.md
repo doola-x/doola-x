@@ -1,4 +1,4 @@
-**👋 hi, im doola**
+# 👋 hi, im doola
 
   - noob
   - php developer at [REDACTED]
