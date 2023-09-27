@@ -1,7 +1,7 @@
 
 # 👋 hi, im doola
 
-  - noob
+  - noob, 0.1x'er
   - php developer at **[REDACTED]**
   - interested in c++ and agi
 
