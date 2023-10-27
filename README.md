@@ -2,7 +2,7 @@
 # 👋 hi, im doola
 
   - noob, 0.1x'er
-  - php developer at **[REDACTED]**
+  - php/c#/devops developer at **[REDACTED]**
   - interested in c++ and agi
 
 *join me in my journey of becoming not dumb. starting a little late, but we gettin' at it*
