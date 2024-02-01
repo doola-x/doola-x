@@ -4,6 +4,7 @@
   - noob, 0.1x'er
   - php/c#/devops developer at **[REDACTED]**
   - interested in c++ and agi
+  - please don't make fun of my terrible code
 
 *join me in my journey of becoming not dumb*
 
