@@ -1,5 +1,5 @@
 
-# 👋 hi, im doola
+## 👋 hi, im doola
 
   - noob, 0.1x'er
   - php/c#/devops developer at **[REDACTED]**
@@ -8,7 +8,12 @@
 
 *join me in my journey of becoming not dumb*
 
-<!---
-doola-x/doola-x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# what do i want to do?
+  - attempting to get to know my machine on a deeper level
+    - os
+    - networking
+    - low-level code
+  - studying the dark arts of sand thought
+    - neural networks
+    - reinforcement learning
+    
