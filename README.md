@@ -1,5 +1,5 @@
 
-## 👋 hi, im doola
+# 👋 hi, im doola
 
   - noob, 0.1x'er
   - php/c#/devops developer at **[REDACTED]**
@@ -8,7 +8,7 @@
 
 *join me in my journey of becoming not dumb*
 
-# what do i want to do?
+## what do i want to do?
   - attempting to get to know my machine on a deeper level
     - os
     - networking
