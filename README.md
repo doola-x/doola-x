@@ -16,4 +16,14 @@
   - studying the dark arts of sand thought
     - neural networks
     - reinforcement learning
-    
+
+## current projects
+  - doola chess ai
+    - chess neural network / reinforcement learning environment i created from scratch in pytorch
+    - you can play my latest model at doola.dev/chess.html
+    - work in progress, it is not good! decent understanding of openings but crumbles during the middle game
+  - sharedlist
+    - version control for music playlists
+    - cross platform support
+    - create playlists with friends and approve/deny pull requests, add notes/comments etc
+    - f.e. is pure html/css/js, backend is in c++
