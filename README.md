@@ -26,4 +26,4 @@
     - version control for music playlists
     - cross platform support
     - create playlists with friends and approve/deny pull requests, add notes/comments etc
-    - f.e. is pure html/css/js, backend is in c++
+    - f.e. is pure html/css/js, b.e. is in c++
