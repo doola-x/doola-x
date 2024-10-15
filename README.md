@@ -1,8 +1,7 @@
 
 # 👋 hi, im doola
 
-  - noob, 0.1x'er
-  - php/c#/devops developer at **[REDACTED]**
+  - php/c++/c#/devops developer at **[REDACTED]**
   - interested in c++ and agi
   - please don't make fun of my terrible code
 
